@@ -1,0 +1,99 @@
+body {
+  font-family: "Roboto", sans-serif;
+  
+}
+.precio {
+  text-align: right;
+}
+.precio strong {
+  color: #28a745;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20pt;
+  text-align: right;
+  padding-left: 0pt;
+  width: 240pt;
+}
+.precio del {
+  color: #707070;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 16pt;
+  text-align: right;
+  margin-top: 0pt;
+  margin-bottom: 190pt;
+}
+.logo {
+  width: 86px;
+  height: 25px;
+}
+.imgtarjeta {
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.card-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 20pt;
+  text-align: left;
+  margin: 0;
+}
+.card-subtitle {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 13pt;
+  text-align: left;
+  margin-top: 0pt;
+  margin-bottom: 150pt;
+  margin: 0;
+}
+.card-body h6 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 16pt;
+  text-align: left;
+  margin-top: 0pt;
+  margin-bottom: 190pt;
+}
+.card {
+  width: 350px;
+  border-radius: 10px;
+}
+.formulario {
+  background-color: #28a745;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 21pt;
+}
+.tituloformulario {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 21pt;
+}
+.formulario .btn-primary {
+  margin: auto;
+  display: block;
+}
+.navbar {
+  background-color: #28a745 !important;
+}
+.logopie {
+  height: 24px;
+  width: 82px;
+}
+.text-muted {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 16pt;
+}
+.nav-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 12pt;
+}
